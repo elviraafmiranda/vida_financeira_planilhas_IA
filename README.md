@@ -8,7 +8,7 @@ Projeto com o objetivo de gerar Planilhas Inteligentes e IA para ajudar a manter
 - [Microsoft Excel](https://excel.cloud.microsoft/)
 
 ## 🚀 Resultados
-[Foi aqui que pedirão uma vida financeira mais organizada?.](https://www.youtube.com/playlist?list=PLtFRWK3uuEwF87-Hm_w2pjEB3mHveI2xP) 
+[Foi aqui que pedirão uma vida financeira mais organizada?.](https://drive.google.com/file/d/1RM0lcwOsEc7uMSxxOyWcXYPIxlbz1PxR/view?usp=drive_link) 
 
 
 ## 👨‍💻 Expert
